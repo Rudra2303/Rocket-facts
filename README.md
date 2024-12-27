@@ -8,8 +8,7 @@ This web application displays random facts about crocodiles when users click a b
 
 ## 🚀 Live Demo
 
-You can view the live demo here: [ Rocket Facts Generator](https://rudra2303.github.io/[repository-name])
-(Replace [your-username] and [repository-name] with your actual GitHub username and repository name)
+You can view the live demo here: [ Rocket Facts Generator](https://rudra2303.github.io/rocket facts/
 
 ## ✨ Features
 
@@ -39,4 +38,4 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/rudra2303/[repository-name].git
+   git clone https://github.com/rudra2303/[rep.git
