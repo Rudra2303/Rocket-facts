@@ -8,7 +8,7 @@ This web application displays random facts about crocodiles when users click a b
 
 ## 🚀 Live Demo
 
-You can view the live demo here: [ Rocket Facts Generator](https://rudra2303.github.io/rocket facts/
+You can view the live demo here: [ Rocket Facts Generator](https://rudra2303.github.io/rocket-facts/
 
 ## ✨ Features
 
